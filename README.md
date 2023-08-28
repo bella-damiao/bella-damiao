@@ -2,7 +2,7 @@
 ##
 
 - 👩🏼‍🎓 Análise e Desenvolvimento de Sistemas pela PUC Minas 
-- 👩🏼‍💻 Estudando Desenvolvimento iOS na linguagem Swift
+- 👩🏼‍💻 Desenvolvedora iOS 
 <br>
 
 <div align="center">
