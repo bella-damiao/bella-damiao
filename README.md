@@ -1,4 +1,4 @@
-### Prazer, eu sou a Bella Damião! 💙
+### Prazer, eu sou a Bella! 💙
 ##
 
 - 👩🏼‍🎓 Análise e Desenvolvimento de Sistemas pela PUC Minas 
